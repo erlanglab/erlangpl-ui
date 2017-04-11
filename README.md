@@ -5,6 +5,8 @@
 
 > UI for Erlang Performance Lab
 
+## This project is deprecated and will be removed soon. Repo was merged into [`erlangpl`](https://github.com/erlanglab/erlangpl). Please report issues there.
+
 ## Getting started
 
 `erlangpl-ui` can be started standalone using Node with npm or yarn.
